@@ -1,2 +1,2 @@
-export const ACCESS_TOKRN = "access";
-export const REFRESH_TOKRN = "refresh";
+export const ACCESS_TOKEN = "access";
+export const REFRESH_TOKEN = "refresh";
